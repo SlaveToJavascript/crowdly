@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+        "id": 1,
+        "brand": "loreal"
+    },
+    {
+        "id": 2,
+        "brand": "pantene"
+    }
+  ]
+}

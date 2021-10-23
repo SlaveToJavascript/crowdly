@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@mui-treasury/components": "^1.10.1",
+    "react-load-script": "0.0.6",
+    "react-router-dom": "^5.2.1"
+  }
+}
